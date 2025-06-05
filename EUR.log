@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile EUR.QC
+  --extract EUR.prune.in
+  --out EUR
+  --pca 6
+
+Hostname: silverblue
+Working directory: /var/home/brettgilio/Projects/prs-tutorial
+Start time: Thu Jun  5 10:38:39 2025
+
+Random number seed: 1749137919
+23771 MB RAM detected; reserving 11885 MB for main workspace.
+489805 variants loaded from .bim file.
+483 people (232 males, 251 females) loaded from .fam.
+--extract: 254187 variants remaining.
+Using up to 8 threads (change this with --threads).
+Before main variant filters, 483 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+254187 variants and 483 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to EUR.eigenval and EUR.eigenvec .
+
+End time: Thu Jun  5 10:38:41 2025
